@@ -11,4 +11,4 @@ Here are some things about my work.
 - 💬 Ask me about React this is my favorite tools
 - 📫 How to reach me: send me a mensage on GitHub or LinkedIn: https://www.linkedin.com/in/gabriel-carvalho-028951261/
 - ⚡ Fun fact: HTML, CSS and Javascript are basic don't forget, this message is important to avoid headache.
-
+- ⚡ My work is powered by: HTML, CSS, Javascript, React and Next
